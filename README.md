@@ -9,3 +9,5 @@ python -m pip install gym==0.9.5 tensorflow tensorpack==0.8.0 numpy==1.14.0 scip
 python -m pip install opencv-python
 
 python -m pip install gym[atari]
+
+pip install gym[accept-rom-license]
