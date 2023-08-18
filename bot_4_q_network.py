@@ -14,10 +14,9 @@ def one_hot(i: int, n: int) -> np.array:
     return np.identity(n)[i].reshape((1, -1))
 
 def print_report(rewards: List, episode: int):
-    print(report %(
+    print(report % (
         np.mean(rewards[-100:]),
-        max([np.mean(rewards[i:i+100])
-        for i in range(len(rewards) - 100)]),
+        max([np.mean(rewards[i:i+100]) for i in range(len(rewards) - 100)]),
         np.mean(rewards),
         episode
     ))
@@ -46,7 +45,7 @@ def main():
     trainer = tf.compat.v1.train.GradientDescentOptimizer(learning_rate=learning_rate)
     update_model = trainer.minimize(error)
 
-    with tf.compat.v1.Session() as session:  # Create a TensorFlow session
+    with tf.compat.v1.Session() as session:
         session.run(tf.compat.v1.global_variables_initializer())
 
         for episode in range(1, num_episodes + 1):
@@ -54,7 +53,7 @@ def main():
             episode_reward = 0
 
             while True:
-                obs_t_oh = one_hot(obs_t[0], n_obs) 
+                obs_t_oh = one_hot(obs_t[0], n_obs)
                 action = session.run(pred_act_ph, feed_dict={obs_t_ph: obs_t_oh})[0]
 
                 if np.random.rand(1) < exploration_probability(episode):
@@ -89,5 +88,5 @@ if __name__ == '__main__':
     report_interval = 500
     exploration_probability = lambda episode: 50.0 / (episode + 10)
     report = '100-ep Average: %.2f. Best 100-ep Average: %.2f. Average: %.2f (Episode %d)' \
-    '(Episode %d)'
+             '(Episode %d)'
     main()
