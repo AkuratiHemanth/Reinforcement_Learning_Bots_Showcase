@@ -10,7 +10,7 @@ Dive into the future with this electrifying repository, where we unleash the pow
 
 ### **🛠️ Installation**
 
-1. <!-- pip install cmake -->
+1. <-- pip install cmake -->
 
 2. python -m pip install wheel
 
