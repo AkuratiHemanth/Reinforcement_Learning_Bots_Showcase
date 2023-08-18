@@ -23,6 +23,7 @@ Dive into the future with this electrifying repository, where we unleash the pow
 6. pip install gym[accept-rom-license]
 
 
+
  ![Screenshot (534)](https://github.com/AkuratiHemanth/Gym/assets/129819031/cdf07c8b-e48f-44e7-9dcb-d38a1a7ed309)
 
 
