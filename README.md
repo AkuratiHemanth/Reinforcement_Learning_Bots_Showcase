@@ -1,4 +1,4 @@
-**Reinforcement Learning Bots Showcase 🤖**
+# **Reinforcement Learning Bots Showcase 🤖**
 
 **Welcome to the exhilarating realm of Reinforcement Learning Bots! 🚀**
 
