@@ -122,3 +122,7 @@ Explore our Reinforcement Learning Bots and redefine your understanding of AI's 
 # **🌌🤖🚀 Reinforcement Learning 🌌🤖🚀**
 
 ![image](https://github.com/AkuratiHemanth/Gym/assets/129819031/8d900e89-d829-46bd-aef8-14977207850a)
+
+
+## To know more about Reinforcement learning, https://github.com/AkuratiHemanth/Reinforcement_Learning
+
