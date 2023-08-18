@@ -23,11 +23,14 @@ Dive into the future with this electrifying repository, where we unleash the pow
 6. pip install gym[accept-rom-license]
 
 
-#### **🤖 Bots that Impress**
-
-1. **Bot1_ls.py - Mastering Policy Iteration**
-   
  ![Screenshot (534)](https://github.com/AkuratiHemanth/Gym/assets/129819031/cdf07c8b-e48f-44e7-9dcb-d38a1a7ed309)
+
+
+## **🤖 Bots that Impress**
+
+
+### 1. **Bot1_ls.py - Mastering Policy Iteration**
+   
 
 🌟 A showcase of the dazzling Least Squares Policy Iteration (LSPI) algorithm.
 
@@ -37,7 +40,8 @@ Dive into the future with this electrifying repository, where we unleash the pow
 
 
 
-2. **Bot2_q_network.py - Unleashing Neural Networks**
+### 2. **Bot2_q_network.py - Unleashing Neural Networks**
+
    
 🚀 Embark on a journey with the revolutionary Q-Network learning.
 
@@ -48,7 +52,8 @@ Dive into the future with this electrifying repository, where we unleash the pow
 
 
 
-3.**Bot3_q_table.py - Quantum Leap with Q-Tables**
+### 3.**Bot3_q_table.py - Quantum Leap with Q-Tables**
+
 
 ⚡️ Experience the Q-Table approach in all its glory.
 
@@ -59,7 +64,8 @@ Dive into the future with this electrifying repository, where we unleash the pow
 
 
 
-4. **Bot4_random.py - Randomness Unveiled**
+### 4. **Bot4_random.py - Randomness Unveiled**
+
    
 🎲 A dive into the universe of random action bots.
 
@@ -70,7 +76,8 @@ Dive into the future with this electrifying repository, where we unleash the pow
 
 
 
-5. **AtariBot - Navigating the Atari World**
+### 5. **AtariBot - Navigating the Atari World**
+
  
 🎮 Join our AtariBot in conquering classic games using Deep Q-Networks.
 
@@ -100,7 +107,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 I'm always excited to hear from fellow AI enthusiasts and collaborators. Let's make the AI community thrive together! 🤖💬
 
 
-##### **👥 Join the Reinforcement Revolution**
+## **👥 Join the Reinforcement Revolution**
 
 **Innovate:** Elevate this repository by adding new bots, refining existing ones, or sharing your insights.
 
@@ -111,6 +118,6 @@ I'm always excited to hear from fellow AI enthusiasts and collaborators. Let's m
 Are you ready to embark on a journey that merges AI brilliance with exhilarating challenges? 
 Explore our Reinforcement Learning Bots and redefine your understanding of AI's potential. Let's shape the future together! 🌌🤖🚀
 
-###### **🌌🤖🚀 Reinforcement Learning 🌌🤖🚀**
+# **🌌🤖🚀 Reinforcement Learning 🌌🤖🚀**
 
 ![image](https://github.com/AkuratiHemanth/Gym/assets/129819031/8d900e89-d829-46bd-aef8-14977207850a)
