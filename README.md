@@ -1,13 +1,14 @@
 **Reinforcement Learning Bots Showcase 🤖**
 
 **Welcome to the exhilarating realm of Reinforcement Learning Bots! 🚀**
+
 ![image](https://github.com/AkuratiHemanth/Gym/assets/129819031/8d900e89-d829-46bd-aef8-14977207850a)
 
 **Reinforcement Learning Bots**
 
 Dive into the future with this electrifying repository, where we unleash the power of Reinforcement Learning (RL) through a series of captivating bots developed using OpenAI Gym environments. Whether you're a budding AI enthusiast or a seasoned RL maven, our curated collection of bots promises to ignite your passion for AI-powered problem-solving.
 
-** ## 🛠️ Installation**
+**## 🛠️ Installation**
 
 1. pip install cmake
 
@@ -21,31 +22,44 @@ Dive into the future with this electrifying repository, where we unleash the pow
 
 6. pip install gym[accept-rom-license]
 
+
 **🤖 Bots that Impress**
 
-1. bot_5_ls.py - Mastering Policy Iteration ![Screenshot (534)](https://github.com/AkuratiHemanth/Gym/assets/129819031/cdf07c8b-e48f-44e7-9dcb-d38a1a7ed309)
+1. **Bot1_ls.py - Mastering Policy Iteration**
+   
+ ![Screenshot (534)](https://github.com/AkuratiHemanth/Gym/assets/129819031/cdf07c8b-e48f-44e7-9dcb-d38a1a7ed309)
 
 🌟 A showcase of the dazzling Least Squares Policy Iteration (LSPI) algorithm.
+
 🧠 Experience the magic of combining linear function approximation and dynamic programming.
+
 🎯 Watch the bot gracefully learn and execute policies for complex tasks.
 
 
-2. bot_4_q_network.py - Unleashing Neural Networks ![ml](https://github.com/AkuratiHemanth/Gym/assets/129819031/ae991415-73c0-4b3e-abc2-45181a9f85d9)
-
+2. **Bot2_q_network.py - Unleashing Neural Networks**
+   
 🚀 Embark on a journey with the revolutionary Q-Network learning.
+
 🤖 Witness the neural network prowess as it approximates Q-values with TensorFlow.
+
 🎮 Conquer challenging tasks through the prowess of Deep Q-Networks (DQNs).
 
 
-3. bot_3_q_table.py - Quantum Leap with Q-Tables
+3.**Bot3_q_table.py - Quantum Leap with Q-Tables**
+
 ⚡️ Experience the Q-Table approach in all its glory.
+
 📚 Witness the marriage of Q-learning and state-action pair tables.
+
 🧠 Immerse yourself in the simplicity and power of this fundamental RL technique.
 
 
-4. bot_2_random.py - Randomness Unveiled
+4. **Bot4_random.py - Randomness Unveiled**
+   
 🎲 A dive into the universe of random action bots.
+
 🌌 Understand the impact of sheer randomness and the absence of learning.
+
 📈 Benchmark your advanced bots against this cornerstone of randomness.
 
 
@@ -55,6 +69,8 @@ Dive into the future with this electrifying repository, where we unleash the pow
 🏆 Become a modern-day gaming legend with our AI-powered Atari champion.
 🚀 Launch Your Experience
 
+![ml](https://github.com/AkuratiHemanth/Gym/assets/129819031/ae991415-73c0-4b3e-abc2-45181a9f85d9)
+
 
 **Choose the bot that sparks your interest and navigate to its folder.**
 
@@ -63,7 +79,14 @@ Dive into the future with this electrifying repository, where we unleash the pow
 
 python bot_script.py
 
+
 Witness the AI in action and its dynamic learning journey!
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me at:
+- 📧 hemanthhemanth2509@gmail.com
+
+I'm always excited to hear from fellow AI enthusiasts and collaborators. Let's make the AI community thrive together! 🤖💬
+
 
 **👥 Join the Reinforcement Revolution**
 
@@ -77,3 +100,5 @@ Are you ready to embark on a journey that merges AI brilliance with exhilarating
 Explore our Reinforcement Learning Bots and redefine your understanding of AI's potential. Let's shape the future together! 🌌🤖🚀
 
 **🌌🤖🚀 Reinforcement Learning 🌌🤖🚀**
+
+![image](https://github.com/AkuratiHemanth/Gym/assets/129819031/8d900e89-d829-46bd-aef8-14977207850a)
